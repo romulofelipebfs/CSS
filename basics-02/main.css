@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: normal;
+    
+}
+
+
+h1{
+    color: white;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#product-overview {
+    background: #ff1b68;
+    
+}
+
+.section-title{
+    color: rgb(15, 192, 15);
+}
+
+#product-overview h1{
+    font-family: "Anton", sans-serif;
+}
+
+h1{
+
+    font-family: sans-serif;
+}
+
+
